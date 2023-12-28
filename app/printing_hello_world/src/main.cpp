@@ -1,8 +1,9 @@
-#include "utils/utils.hpp"
 #include <cstdint>
 #include <string>
 
-int32_t main(){
-    Print("Hello, world!");
-    return 0;
+#include "utils/utils.hpp"
+
+int32_t main() {
+  Print("Hello, world!");
+  return 0;
 }
