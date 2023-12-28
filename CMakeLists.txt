@@ -7,10 +7,10 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_VERBOSE_MAKEFILE ON)
 
 project(
-    CPP_PROJECT_TEMPLATE
+    CPP_HELLO_WORLD
     LANGUAGES CXX
     VERSION 1.0.0
-    DESCRIPTION "C++ Project Template"
+    DESCRIPTION "C++ Hello World Project"
 )
 
 message(STATUS " ")
